@@ -1,0 +1,13 @@
+C:\Users\Adaś\Desktop\CV\Portfolio\Csharp\Csharp\bin\Debug\Csharp.exe.config
+C:\Users\Adaś\Desktop\CV\Portfolio\Csharp\Csharp\bin\Debug\Csharp.exe
+C:\Users\Adaś\Desktop\CV\Portfolio\Csharp\Csharp\bin\Debug\Csharp.pdb
+C:\Users\Adaś\Desktop\CV\Portfolio\Csharp\Csharp\obj\Debug\Csharp.csprojAssemblyReference.cache
+C:\Users\Adaś\Desktop\CV\Portfolio\Csharp\Csharp\obj\Debug\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Adaś\Desktop\CV\Portfolio\Csharp\Csharp\obj\Debug\Csharp.exe
+C:\Users\Adaś\Desktop\CV\Portfolio\Csharp\Csharp\obj\Debug\Csharp.pdb
+C:\Users\Adaś-PC\Desktop\CV\Portfolio\Csharp\Csharp\bin\Debug\Csharp.exe.config
+C:\Users\Adaś-PC\Desktop\CV\Portfolio\Csharp\Csharp\bin\Debug\Csharp.exe
+C:\Users\Adaś-PC\Desktop\CV\Portfolio\Csharp\Csharp\bin\Debug\Csharp.pdb
+C:\Users\Adaś-PC\Desktop\CV\Portfolio\Csharp\Csharp\obj\Debug\Csharp.csprojAssemblyReference.cache
+C:\Users\Adaś-PC\Desktop\CV\Portfolio\Csharp\Csharp\obj\Debug\Csharp.exe
+C:\Users\Adaś-PC\Desktop\CV\Portfolio\Csharp\Csharp\obj\Debug\Csharp.pdb

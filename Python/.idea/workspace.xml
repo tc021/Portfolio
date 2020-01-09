@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44fb4551-be78-42f2-ad31-40ceae634bd8" name="Default Changelist" comment="fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/program.py" beforeDir="false" afterPath="$PROJECT_DIR$/program.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/CV-python.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VwFFqQEuzraDJ6mL1asA3gPK3J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Python27" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.program">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CV-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Diploma Work/Na serwisy/SPOJ" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Diploma Work/Na serwisy/SPOJ/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CV-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\Tutorial\Python\python-programming-from-basics-to-advance\FirstSteps\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="program" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CV-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.program" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.program" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44fb4551-be78-42f2-ad31-40ceae634bd8" name="Default Changelist" comment="" />
+      <created>1574698223996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574698223996</updated>
+      <workItem from="1574698226499" duration="394000" />
+      <workItem from="1574698923537" duration="571000" />
+      <workItem from="1574699545024" duration="257000" />
+      <workItem from="1574791737686" duration="322000" />
+      <workItem from="1575230355565" duration="1696000" />
+      <workItem from="1575291109948" duration="5802000" />
+      <workItem from="1577648056629" duration="557000" />
+      <workItem from="1578023240253" duration="2028000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11627000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578403145701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1506" y="-406" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-642.1920.1160/0.0.1366.728@-1920.-642.1920.1160" timestamp="1578156574162" />
+    <state x="274" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-642.1920.1160/0.0.1366.728@0.0.1366.728" timestamp="1578403145701" />
+    <state x="-1241" y="-447" key="#program" timestamp="1578156272777">
+      <screen x="-1920" y="-642" width="1920" height="1160" />
+    </state>
+    <state x="-1241" y="-447" key="#program/-1920.-642.1920.1160/0.0.1366.728@-1920.-642.1920.1160" timestamp="1578156272777" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1578403021685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="0" key="CommitChangelistDialog2/-1920.-642.1920.1160/0.0.1366.728@0.0.1366.728" timestamp="1578403021685" />
+    <state x="526" y="210" key="FileChooserDialogImpl" timestamp="1578402050065">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1181" y="-307" key="FileChooserDialogImpl/-1920.-642.1920.1160/0.0.1366.728@-1920.-642.1920.1160" timestamp="1578156345070" />
+    <state x="526" y="210" key="FileChooserDialogImpl/-1920.-642.1920.1160/0.0.1366.728@0.0.1366.728" timestamp="1578402050065" />
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom" timestamp="1578541570640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1899" height="320" key="GridCell.Tab.0.bottom/-1920.-642.1920.1160/0.0.1366.728@-1920.-642.1920.1160" timestamp="1578156590662" />
+    <state width="1345" height="178" key="GridCell.Tab.0.bottom/-1920.-642.1920.1160/0.0.1366.728@0.0.1366.728" timestamp="1578541570640" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center" timestamp="1578541570640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1899" height="320" key="GridCell.Tab.0.center/-1920.-642.1920.1160/0.0.1366.728@-1920.-642.1920.1160" timestamp="1578156590662" />
+    <state width="1345" height="178" key="GridCell.Tab.0.center/-1920.-642.1920.1160/0.0.1366.728@0.0.1366.728" timestamp="1578541570640" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left" timestamp="1578541570640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1899" height="320" key="GridCell.Tab.0.left/-1920.-642.1920.1160/0.0.1366.728@-1920.-642.1920.1160" timestamp="1578156590662" />
+    <state width="1345" height="178" key="GridCell.Tab.0.left/-1920.-642.1920.1160/0.0.1366.728@0.0.1366.728" timestamp="1578541570640" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right" timestamp="1578541570640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1899" height="320" key="GridCell.Tab.0.right/-1920.-642.1920.1160/0.0.1366.728@-1920.-642.1920.1160" timestamp="1578156590662" />
+    <state width="1345" height="178" key="GridCell.Tab.0.right/-1920.-642.1920.1160/0.0.1366.728@0.0.1366.728" timestamp="1578541570640" />
+    <state x="328" y="15" key="SettingsEditor" timestamp="1578402062814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-1459" y="-419" key="SettingsEditor/-1920.-642.1920.1160/0.0.1366.728@-1920.-642.1920.1160" timestamp="1578156393489" />
+    <state x="328" y="15" key="SettingsEditor/-1920.-642.1920.1160/0.0.1366.728@0.0.1366.728" timestamp="1578402062814" />
+    <state x="384" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1578156157499">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="189" key="com.intellij.ide.util.TipDialog/-1920.-642.1920.1160/0.0.1366.728@0.0.1366.728" timestamp="1578156157499" />
+  </component>
+</project>
