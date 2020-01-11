@@ -1,0 +1,25 @@
+.carousel-style{
+    padding:70px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: initial;
+}
+.carousel-style p{
+    color: #ff0000;
+    font-weight: bold;
+}
+.carousel-style h1{
+    color:darkturquoise;
+    font-weight: 900;
+}
+.carousel-style img{
+    width: 100%;
+    height: 100%;
+}
+.body{
+    background-color: darkgray;
+}
+.test{
+    position: absolute;
+    width: 100%;
+}
