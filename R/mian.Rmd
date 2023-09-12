@@ -1,0 +1,62 @@
+---
+author: "Adam Sypnik"
+title: "R Portfolio"
+output: html_notebook
+---
+
+
+```{r Libraries}
+library(dplyr)
+library(Hmisc)
+library(ggplot2)
+library(rio)
+library(randomForest)
+library(e1071)
+library(caret)
+library(rpart)
+library(rpart.plot)
+library(pROC)
+```
+
+```{r Data Load & Exploration}
+data_au <- import("australian.dat")
+head(data_au)
+```
+```{r}
+describe(data_au)
+```
+```{r}
+str(data_au)
+```
+```{r}
+data_au <- data_au %>% 
+  mutate(V15 = as.factor(V15))
+
+ggplot(data_au, aes(x = V15)) + geom_bar()
+
+```
+```{r Splitting data for test and train}
+ratio <- sort(sample(nrow(data_au), nrow(data_au)*.7))
+train <- data_au[ratio,]
+test <- data_au[-ratio,]
+```
+
+
+```{r Decision Tree Model}
+decision_tree_model <- rpart(V15 ~., data = train)
+rpart.plot(decision_tree_model)
+```
+```{r}
+predict_decision_tree_test <- predict(decision_tree_model, test, type = 'class')
+
+decision_tree_cof_matrix <- confusionMatrix(predict_decision_tree_test, test$V15, positive = '1')
+
+decision_tree_cof_matrix
+```
+
+```{r}
+predict_decision_tree_test_prob <- predict(decision_tree_model, test, type = 'prob')
+roc_curve_dec_tree <- roc(test$V15, predict_decision_tree_test_prob[,2])
+plot(roc_curve_dec_tree, col='red')
+```
+
